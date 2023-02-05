@@ -1,0 +1,19 @@
+{
+  "name": "Stu Linden",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Engineer who works with Solidworks and new to web dev**."
+ "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/stuartlindenjr",
+      "icon": "FaTwitter"
+    },
+{
+  "name": "Follow me on Instagram"
+  "url": "https://instagram.com/cassettesarentdead",
+  "icon": "FaInstagram"
+}
+
+  ]
+}
